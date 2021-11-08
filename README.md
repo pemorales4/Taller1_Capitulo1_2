@@ -1,3 +1,3 @@
 # Taller1_Capitulo1_2
-Primer Taller de Fundamentos de Circuitos Electrónicos \n
-aaaaaa
+Primer Taller de Fundamentos de Circuitos Electrónicos 
+aaaa
