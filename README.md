@@ -1,3 +1,8 @@
 # Taller1_Capitulo1_2
-Primer Taller de Fundamentos de Circuitos Electrónicos 
-aaaa
+ “UNIVERSIDAD DE LAS FUERZAS ARMADAS”
+
+ “ESPE”
+                                                                        
+OBJETIVOS
+
+x^{6}  
